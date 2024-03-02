@@ -1,0 +1,69 @@
+{
+ "name": "FORMAT ADMINISTRASI DESA",
+ "short_name": "Format Desa",
+ "description": "Temukan panduan dan contoh administrasi desa, surat, SK, Perkades, Perdes, RAB, Laporan, Proposal, APBDes, RKPDes, dll di FORMAT ADMINISTRASI DESA.",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "#00BE98",
+ "start_url": "https://www.formatadministrasidesa.com/",
+ "background_color": "#00BE98",
+ "display": "standalone",
+ "version": "1.0.0",
+ "author": "Laode Muhamad Fiil Mudawat",
+ "orientation": "portrait-primary",
+ "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQM53FcSjs2jQKpRgoL_ylfiLW8drFsHyUJ7dSd6ithpqRi5_tuuxdVw2rud4EqiQdm5VYZsjqcG-svSKy8lP9_C5IXZJ1LIkA3g_HALRUTrSgYVdjBuLuwvpEajf_1ALHoVu5jesb27pXtdIxYCrp12xZhy-T-XRyLRrzjJKM5GWCU52zYlFeg-CR5zQ/s1600/formatadministrasidesa-android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjndCijO4eYE7W1NBS1Do42gQmmh0hCcH3iconngc4CXgv8S8ujP0t-GMW5laBrUHS_XmnFGbbB8IOtKvqHgrg7lgMbw6BDmelRAWujmlliDyMklPlvlh71VfF_hV7SqxURcGwm9x9Hmt4HOkMI92CPbanWK2Z8hB06ULsQD0GkdrOexK5aiFGTGYd9d7Y/s1600/formatadministrasidesa-android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheKLrQL73cmC2IT5VQaAtQwFRgY8mq7FCj5fLluchMdv7R1pFYDIjHz3lcMaNXViIXOt5Eb2kMSVHUZmkuULuZ8N2woS3Y1YsNDJrSGiwmzWKYHGA7iyYc5Qiy9p3hyphenhyphen6Ag9psVHimMWOoFYcGWqE6Mz-0x2QqTN_9VbslmhBc3lrjvmqF2KWegmPcJQus/s1600/formatadministrasidesa-apple-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYIRJPdwjz2kjRWNT2AuZqMQuGjWzWRV7pYPmFqLVPqmrJaJh0IGTOeFe78xmJAP3slDvzOlZL4sxBXmRBB_oAEAQtHMrd5W_s2k37ffU1M1BMO6HNL1QZXrTOt1pwCbMxOYAEMaCXU4O4Rq1j0woqs8mFL2KxETR1ra6xdNB20EwpCiR7-nqYTlccHnk/s1600/formatadministrasidesa-favicon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tbhojZEocUGYyOOdofEGEYRbzvLsS3Ge9M4t5o2xvXxDsMmaRNYbJOeHhj6hYaeWWuaMueCsQMA7YsFO7XbfJo4L5hHZjK3UuXlFga97uN_W5a2x1poFwHZLCQcaWNH8oqt3t7LZqWRsZlzllOibo23S3Kh-vayKl-wplwxlYmMvAOnuW7TGvMboFH4/s1600/formatadministrasidesa-ms-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFkHQYbPkmiB2Czoy0-BZe9qwTmU98qBEz429cyNevBterz_t1NXUcxJ11HaEJTz9IeNDlGU-4SGO00E1xW3mecdGJRpfwOdl0Yl0Np6HZIpWCZkDKhVyo5DGBn2Lpe8fk-W0B77R85OCPsFxn-p4zBVM7QUtu1VoqrtN25iJiS1FGPJVKGkFAraXOp4/s1600/formatadministrasidesa-android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0",
+    "purpose": "maskable"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzQ3Z_aZDUjQUvQYLH27B5B3TZrzTOxW5N3ILaMj7bu2XHECV9TXKgHPx99LuBLr9NhgvPZe2VUcEfcgdyDO9NkhnNgu4a_64f0lDRBs0IilZ8Y5zAdXfQLoyfdxa5fbCjmuf7iBRWQEG_52aKw6IlSsShGqE67Gm6Atzhn3CWYnucml8pQVAlT34K2s/s1600/formatadministrasidesa-android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0",
+    "purpose": "maskable"
+}, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-uq5OlQ9t4_4a8U-AXKi8kUC7lvK27JnY9LGBoE5d61Jlym9PGzD7wBuNBWeV-5hrEvTuNgbSZ-Kf9xfCmLRL9BvLne198bj2C0DJZEp1PYDBI-C3pgYB0mR5D2ZvqhwCy2zjt_PAAxCoZ2buld146Tf14TVhhajgcDHP3FSmcflw835SbWR5FUNUmDA/s1600/formatadministrasidesa-logo_310x310.png",
+    "sizes": "310x310",
+    "type": "image/png",
+    "density": "6.0",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2d8qar2tHPfq6NJaaETsYmNTqq3S2lzl-LKBJk9CLJySN8t7xQ9GKYSdpxXZ4ZGrp35GPpIVO6nrcDbYdZUc0mIownD2A3j1CVkp22uyPFgx6oeTApdYB2IIq6J1q01ENc5QFreEDu0RnuLVultRuVJdpCJTek9AbYO7Zu3plKrjTqEKTtJzYLcF9U4A/s1600/formatadministrasidesa-apple-icon-180x180.png",
+    "sizes": "180x180",
+    "type": "image/png",
+    "density": "7.0",
+    "purpose": "any"
+  }]
+}
